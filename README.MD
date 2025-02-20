@@ -1,0 +1,2 @@
+#this is the local repo crated at my local host and pushed to the git hub using git remote the omands are ass follow'
+create folder ,commant git init ,crate files {makes changes in files },check status ,add files ,commit files,then cmd git remote add origi{repo linklurl} ,cmd branch -m main , git push main origin
